@@ -1,0 +1,62 @@
+<!-- Copyright (C) 2023 PixelBuildsRom
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+
+<resources>
+    <category id="pb" title="@string/pb_walls" featured="jade_tiles">
+
+        <static-wallpaper
+            id="jade_tiles"
+            src="@drawable/jade_tiles"
+            title="@string/wallpaper_jade_tiles"
+            subtitle1="@string/author_1" />
+
+        <static-wallpaper
+            id="pearl_tiles"
+            src="@drawable/pearl_tiles"
+            title="@string/wallpaper_pearl_tiles"
+            subtitle1="@string/author_1" />
+
+        <static-wallpaper
+            id="dark_tiles"
+            src="@drawable/dark_tiles"
+            title="@string/wallpaper_dark_tiles"
+            subtitle1="@string/author_1" />
+
+        <static-wallpaper
+            id="emerald_vortex"
+            src="@drawable/emerald_vortex"
+            title="@string/wallpaper_emerald_vortex"
+            subtitle1="@string/author_1" />
+
+        <static-wallpaper
+            id="forest_vortex"
+            src="@drawable/forest_vortex"
+            title="@string/wallpaper_forest_vortex"
+            subtitle1="@string/author_1" />
+
+        <static-wallpaper
+            id="porcelain_vortex"
+            src="@drawable/porcelain_vortex"
+            title="@string/wallpaper_porcelain_vortex"
+            subtitle1="@string/author_1" />
+
+        <static-wallpaper
+            id="obsidian_vortex"
+            src="@drawable/obsidian_vortex"
+            title="@string/wallpaper_obsidian_vortex"
+            subtitle1="@string/author_1" />
+    </category>
+
+</resources>
