@@ -23,6 +23,12 @@
             subtitle1="@string/author_1" />
 
         <static-wallpaper
+            id="malachite_tiles"
+            src="@drawable/malachite_tiles"
+            title="@string/wallpaper_malachite_tiles"
+            subtitle1="@string/author_1" />
+
+        <static-wallpaper
             id="pearl_tiles"
             src="@drawable/pearl_tiles"
             title="@string/wallpaper_pearl_tiles"
