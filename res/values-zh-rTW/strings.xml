@@ -13,15 +13,15 @@
      limitations under the License.
 -->
 <resources>
-    <string name="app_name">Sfondi PixelBuilds</string>
+    <string name="app_name">PixelBuilds 桌布</string>
     <string name="pb_walls">PixelBuilds</string>
-    <string name="author_1">da Icarusap</string>
-    <string name="wallpaper_jade_tiles">Piastrelle di Giada</string>
-    <string name="wallpaper_malachite_tiles">Piastrelle di Malachite</string>
-    <string name="wallpaper_pearl_tiles">Piastrelle di Perle</string>
-    <string name="wallpaper_dark_tiles">Piastrelle Scure</string>
-    <string name="wallpaper_emerald_vortex">Vortice di Smeraldo</string>
-    <string name="wallpaper_forest_vortex">Vortice di Foresta</string>
-    <string name="wallpaper_porcelain_vortex">Vortice di Porcellana</string>
-    <string name="wallpaper_obsidian_vortex">Vortice di Ossidiana</string>
+    <string name="author_1">由 Icarusap 設計</string>
+    <string name="wallpaper_jade_tiles">Jade Tiles</string>
+    <string name="wallpaper_malachite_tiles">Malachite Tiles</string>
+    <string name="wallpaper_pearl_tiles">Pearl Tiles</string>
+    <string name="wallpaper_dark_tiles">Dark Tiles</string>
+    <string name="wallpaper_emerald_vortex">Emerald Vortex</string>
+    <string name="wallpaper_forest_vortex">Forest Vortex</string>
+    <string name="wallpaper_porcelain_vortex">Porcelain Vortex</string>
+    <string name="wallpaper_obsidian_vortex">Obsidian Vortex</string>
 </resources>
